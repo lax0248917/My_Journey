@@ -3,9 +3,10 @@
 It is not an easy thing to decide to change careers, and even more difficult when you still need to work to support your family during the process. What follows is my attempt to turn a dream into reality. I hope you enjoy the ride...
 
 A few things before we get started:
-    - I will attempt to blog as often as possible, it won't be every day.
-    - I won't always write about software engineering, it may include ideas, emotions, memes, and Dad Jokes.
-    - Everything on here will be my own personal opinions and just an expression of myself. I hope no one takes offense.
+
+- I will attempt to blog as often as possible, it won't be every day.
+- I won't always write about software engineering, it may include ideas, emotions, memes, and Dad Jokes.
+- Everything on here will be my own personal opinions and just an expression of myself. I hope no one takes offense.
 
 Here we go...
 
