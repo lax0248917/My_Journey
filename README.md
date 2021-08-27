@@ -10,6 +10,9 @@ A few things before we get started:
 
 Here we go...
 
+### 08/27/2021
+
+Its been a crazy few weeks. Working on a pretty big project to learn how to work as a Software Engineer as a part of a team. Hopefully this experience will carry over into a much larger Software Engineering job. Fingers crossed!
 ### 07/09/2021
 
 Wow! What happened??? Journaling has always eluded me and is a task that I struggle with to the nth degree. Its been almost a year since the last time I mentioned anything related to my software engineering journey. You may be wondering what has been going on, well a lot! But, not much in the respect of coding. The position that I have been in at work finally came with a promotion and pay raise...so Woo Hoo!! The issue is that it also came with a much larger scope of job responsibilities that have pulled me away from spending time in a code editor. This wreaked havoc on my Javascript learning path and also has prevented me from moving on to C# and .NET as I had hoped. These are still goals that I want to achieve. Also last year came with the disbanding of Team Armadillo. This was unfortunate as the team was made up of some really special people, but life got in the way and it quickly fell apart. In that respect, I am happy to say that a few of the former members and myself have joined back up and are going to be working on building a new CLI/TUI Tool built in Rust. So as the Rust community says..."Lets get Rusty!"
